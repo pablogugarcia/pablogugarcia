@@ -1,5 +1,9 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Pablo Gustavo Garcia!
 
+## Brief description about me
+
+
+I work as a software developer and I found that it is something that I love, challenges such as clean code and day-to-day puzzles are aspects that I love.
 
 ---
 
